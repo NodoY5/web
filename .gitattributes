@@ -14,4 +14,4 @@
 *.css linguist-detectable=false
 
 # Removes Javascript from Used Lang from Github
-*.javascript linguist-detectable=false
+*.js linguist-detectable=false
